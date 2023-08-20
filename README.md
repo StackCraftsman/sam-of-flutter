@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Samuel - Flutter Developer
 
 <p align="center">
-  <img src="https://github.com/sam-of-flutter/sam-of-flutter/blob/main/flutter-logo.png" alt="Flutter Logo" width="150" />
+  <img src="https://scanbot.io/wp-content/uploads/2022/03/flutter_tutorial_hero.jpg" alt="Flutter Logo" width="150" />
 </p>
 
 I'm a passionate Flutter developer with experience in creating beautiful and performant mobile, web, and desktop applications. My expertise includes:
