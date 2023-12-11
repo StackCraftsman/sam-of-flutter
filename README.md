@@ -26,8 +26,6 @@ I'm always exploring new technologies to enhance my skills:
 
 Feel free to reach out if you want to collaborate, discuss Flutter, or just say hi:
 
-- Twitter: [@codercruiser](https://twitter.com/codercruiser)
-- LinkedIn: [Eng. Sam](https://www.linkedin.com/in/engr-sam-b9846415a/)
-- Email: [nexigen0@gmail.com](mailto:nexigen0@gmail.com)
+- Telegram: [@samuel_033]
 
 Let's build amazing Flutter experiences together! 🚀
